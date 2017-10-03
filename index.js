@@ -17,5 +17,5 @@ function dec(n){
   return n - 1
 }
 function makeInt(parseInt){
-  return a = toString
+  return a 
 }
